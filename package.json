@@ -1,0 +1,34 @@
+{
+  "name": "ctrline",
+  "version": "1.0.0",
+  "description": "Sistema control de limites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcelolomena/ctrlln.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "~1.0.1",
+    "grunt-cli": "~1.2.0",
+    "grunt-contrib-jshint": "~1.1.0",
+    "grunt-contrib-clean": "~1.1.0",
+    "grunt-contrib-connect": "~1.0.2",
+    "grunt-contrib-compress": "~1.4.3",
+    "grunt-contrib-concat": "~1.0.1",
+    "grunt-contrib-uglify": "~3.0.1",
+    "grunt-contrib-watch": "~1.0.0",
+    "grunt-html2js": "~0.3.8",
+    "grunt-bower-task": "~0.5.0",
+    "grunt-karma": "~2.0.0",
+    "karma": "~1.7.0",
+    "karma-jasmine": "~1.1.0",
+    "karma-chrome-launcher": "~2.2.x",
+    "karma-ng-html2js-preprocessor": "~1.0.0",
+    "jasmine-core ": "~2.6.4"
+  }
+}
